@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="KostKas"><rect width="512" height="512" rx="112" fill="#6c46df"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <!-- lingkaran terbuka -->
+    <path d="M453.3 184.2 A210 210 0 1 1 327.8 58.7"/>
+    <!-- gagang keranjang -->
+    <path d="M196 250 V222 Q196 150 256 150 Q316 150 316 222 V250"/>
+    <!-- badan keranjang -->
+    <path d="M136 250 H376 M158 250 L184 372 H328 L354 250"/>
+    <!-- anyaman -->
+    <path d="M226 292 V332 M286 292 V332"/>
+  </g>
+  <!-- titik koin di ujung lingkaran -->
+  <circle cx="327.8" cy="58.7" r="24" fill="#FFFFFF"/>
+</svg>
